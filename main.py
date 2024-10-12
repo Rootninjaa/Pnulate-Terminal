@@ -16,7 +16,7 @@ logo = ("""
  |  __/| | | | |_| | | (_| | ||  __/
  |_|   |_| |_|\__,_|_|\__,_|\__\___|
         
-GitHub: https://github.com/Rootninjaa/Pnulate-terminal
+GitHub: https://github.com/Rootninjaa/Pnulate-Terminal
 Contact: rootlockinc@gmail.com
 --help: all command
                                      

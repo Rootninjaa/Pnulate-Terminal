@@ -1,8 +1,8 @@
-#Pnulate Terminal
+# Pnulate Terminal
 
 Pnulate terminal offers you a more comfortable command prompt, in short this program is similar to cmd, the syntax is easier and there are very efficient and comfortable codes, it is completely open source
 
-##Example usage
+## Example usage
 
 ``--gethtml5lib https://example.com``
 this command pulls the html code of the entered url
@@ -19,12 +19,12 @@ there are multiple commands, you can learn them using the ``-help`` command
 
 
 
-##libraries
+## libraries
 
 ![2pnlt](https://github.com/user-attachments/assets/f632f190-2486-4423-9e20-73afbb526b29)
 
 
-##How to install
+## How to install
 
 -go to tags and select v1.0 or any other version
 
